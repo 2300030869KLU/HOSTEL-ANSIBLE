@@ -21,7 +21,7 @@ export default function ViewAllHostel() {
 
   return (
     <div className="center-container">
-      <h3 style={{ color: "black", fontWeight: "bolder" }}>All Hostel Students</h3>
+      <h3 style={{ color: "black", fontWeight: "bolder" }}>All Hostel Students </h3>
       <table border={1}>
         <thead>
           <tr>
